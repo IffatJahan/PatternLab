@@ -1,0 +1,86 @@
+Characteristics			Dead N (%)	Alive N (%)	Total
+Mother’s education level
+ Illiterate Mothers			344 (7.7)		4149 (92.3)	4493
+ Mother completed primary		119 (6.4)		1749 (93.6)	1868
+ Secondary and higher		14 (4.2)		317 (95.8)		331
+Partner’s level of education
+ Illiterate Father			266 (7.7)		3180 (92.3)	3446
+ Father completed primary		170 (6.9)		2287 (93.1)	2457
+ Secondary and higher		41 (5.2)		748 (94.8)		789
+Birth status
+ Singleton births			431 (6.7)		6048 (93.3)	6479
+ Multiple births (twins)		46 (21.5)		167 (78.5)		213
+Sex of the child
+ Males				258 (7.8)		3067 (92.2)	3325
+ Females				212 (6.3)		3155 (93.7)	3367
+Type of place of residence
+ Urban				81 (5.8)		1308 (94.2)	1389
+ Rural				396 (7.5)		4907 (92.5)	5303
+Wealth index
+ Poorest				131 (7.5)		1623 (92.5)	1754
+ Poorer				112 (8.5)		1205 (91.5)	1317
+ Middle				86 (7.2)		1109 (92.8)	1195
+ Richer				72 (6.9)		969 (93.1)		1041
+ Richest				76 (5.5)		1309 (94.5)	1385
+Children ever born
+ One child				20 (3.3)		581 (96.7)		 601
+ Two children			81 (7.1)		1065 (92.9)	1146
+ Three children			67 (6.6)		953 (93.4)		1020
+ Four and more			309 (7.9)		3616 (92.1)	3925
+Birth order number
+ First child			95 (7.6)		1154 (92.4)	1249
+ Second to third child		117 (5.6)		1974 (94.4)	2091
+ 4th–6th child			149 (7.1)		1949 (92.9)	2098
+ 6th+ child			116 (9.2)		1138 (90.8)	1254
+Religion
+ Catholics				217 (7.4)		2722 (92.6)	2939
+ Muslims				69 (7.5)		852 (92.5)		921
+ Other Christians			187 (6.8)		2571 (93.2)	2758
+ Others				4 (5.4)		70 (94.6)		74
+Type of toilet facility
+ Flush toilet			5 (4.1)		116 (95.9)		121
+ Pitlatrine				376 (6.9)		5031 (93.1)	5407
+ No-facility			96 (8.2)		1068 (91.8)	1164
+Mother’s occupation
+ Not-working			93 (6.9)		1260 (93.1)	1353
+ Sales and services			110 (6.5)		1589 (93.5)	1699
+ Agriculture			274 (7.5)		3366 (92.5)	3640
+Births in past 5 years
+ 1-Birth				93 (4.5)		1982 (95.5)	2075
+ 2-Birth				227 (6.5)		3288 (93.5)	3515
+ 3-Births				140 (13.6)		887 (86.4)		1027
+ 4-Births				17 (22.7)		58 (77.3)		75
+Births in past 1 year
+ No-births				309 (6.8)		4212 (93.2)	4521
+ 1-Birth				163 (7.6)		1971 (92.4)	2134
+ 2-Births				5 (13.5)		32 (86.5)		37
+Children under 5 in household
+ No-child				101 (34.9)		188 (65.1)		289
+ 1-Child				178 (10.5)		1511 (89.5)	1689
+ 2-Children			146 (4.9)		2831 (95.1)	2977
+ 3-Children			35 (2.5)		1349 (97.5)	1384
+ 4-Children			17 (4.8)		336 (95.2)		353
+Mother’s age group
+ Less than 20 years			29 (8.9)		296 (91.1)		325
+ 20–29 years			235 (6.5)		3376 (93.5)	3611
+ 30–39 years			164 (7.4)		2054 (92.6)	2218
+ 40 years+				49 (7.9)		489 (90.1)		538
+Birth order number
+ First child			95 (7.6)		1154 (92.4)	1249
+ Second to third child		117 (5.6)		1974 (94.4)	2091
+ 4th–6th child			149 (7.1)		1949 (92.9)	2098
+ 6th+ child			116 (9.3)		1138 (90.7)	1254
+Sex of household head
+ Male				341 (6.7)		4771 (93.3)	5112
+ Female				136 (8.6)		1444 (91.4)	1580
+Source of drinking water
+ Piped water			76 (5.9)		1204 (94.1)	1280
+ Borehole				216 (7.3)		2731 (92.7)	2947
+ Well				93 (6.9)		1261 (93.1)	1354
+ Surface/rain/pond/lake/tank		70 (8.5)		756 (91.5)		826
+ Other				22 (7.7)		263 (92.3)		285
+Age at first birth
+ Less than 20 years			347 (7.5)		4291 (92.5)	4638
+ 20–29 years			127 (6.3)		1899 (93.7)	2026
+ 30–39 years			3 (12.0)		22 (88.0)		25
+
