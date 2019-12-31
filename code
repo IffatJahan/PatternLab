@@ -1,1 +1,28 @@
 https://colab.research.google.com/drive/1aC2wMuJlsAXpA9Olb6_gWoXBGr0DzE5K
+import pandas as pd
+from pandas import ExcelWriter
+from pandas import ExcelFile
+from google.colab import files
+uploaded = files.upload()
+from sklearn.ensemble import RandomForestClassifier
+model = RandomForestClassifier()
+import io
+df_train = pd.read_excel(io.BytesIO(uploaded['dataset.xlsx']))
+#df_train = pd.read_csv(io.BytesIO(uploaded['d.csv']))
+df_train.head(3)
+#t = pd.get_dummies(df[[df.columns[0],df.columns[1],df.columns[2],df.columns[3],df.columns[4],df.columns[5],df.columns[6],df.columns[7],df.columns[8],df.columns[9],df.columns[10],df.columns[11],df.columns[12],df.columns[13],df.columns[14],df.columns[15],df.columns[16],df.columns[17],df.columns[18],df.columns[19]]])
+
+
+df_train_all_num = (df_train.apply(lambda x: pd.factorize(x)[0]))
+#df_train_all_num.head(5)
+#prepare training X, Y data set
+train_y = df_train_all_num[df_train.columns[18]]
+#drop unused fields
+train_x = df_train_all_num.drop(df_train.columns[18], axis=1)
+model.fit(train_x, train_y)
+# display the relative importance of each attribute
+importances = model.feature_importances_
+#Sort it
+print ("Sorted Feature Importance:")
+sorted_feature_importance = sorted(zip(importances, list(train_x)), reverse=True)
+print (sorted_feature_importance)
